@@ -1,8 +1,8 @@
 <div>
         <a href="https://www.linkedin.com/in/oussama-zbair-373991202/">
-            <img src="https://img.shields.io/badge/linkedin-connect-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
+            <img src="https://img.shields.io/badge/linkedin-follow-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
         </a>&nbsp;&nbsp; <a href="https://twitter.com/O_zbair">
-            <img src="https://img.shields.io/badge/twitter-connect-%230077B5.svg?&style=for-the-badge&logo=twitter" />
+            <img src="https://img.shields.io/badge/twitter-follow-%230077B5.svg?&style=for-the-badge&logo=twitter" />
         </a>&nbsp;&nbsp;
       
        
