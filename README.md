@@ -19,5 +19,5 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><br>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=O-zbair&show_icons=true&theme=highcontrast"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-zbair&layout=compact">
+<img align="left" width="22px" src="https://github-readme-stats.vercel.app/api?username=O-zbair&show_icons=true&theme=highcontrast"><br>
+<img align="left" width="22px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-zbair&layout=compact">
