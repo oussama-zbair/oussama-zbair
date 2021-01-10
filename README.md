@@ -1,5 +1,4 @@
-<div align="center">
-    <div>
+<div>
         <a href="https://www.linkedin.com/in/oussama-zbair-373991202/">
             <img src="https://img.shields.io/badge/linkedin-connect-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
         </a>&nbsp;&nbsp; <a href="https://twitter.com/O_zbair">
