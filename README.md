@@ -10,8 +10,7 @@ Here are some ideas to get you started:
 <br>
 
 ### Connect with me:
-<img align="left" alt="O_zbair | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="oussama-zbair-373991202 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
 
 <br />
 <br />
