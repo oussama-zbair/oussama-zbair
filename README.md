@@ -25,7 +25,7 @@
 ### Hi there 👋 , I'm Osama Zbair 
 
 - 🔭 I’m currently working on a web projects 
-- 🌱 I’m currently learning everything including Data Sience , AI ,Blockchain , Cloud Computing
+- 🌱 I’m currently learning everything including Cyber Security , Blockchain , Cloud Computing
 - 👯 I’m looking to collaborate on Open Source Web tools Projects
 - 💬 Ask me anything about : Web development , Python , JavaScript , Cyber Security , Linux
     <br>
