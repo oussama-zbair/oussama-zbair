@@ -2,7 +2,7 @@
 
 
 <div>
-        <a href="https://www.linkedin.com/in/oussama-zbair-373991202/">
+        <a href="https://www.linkedin.com/in/oussama-zbair/">
             <img src="https://img.shields.io/badge/linkedin-follow-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
         </a>&nbsp;&nbsp; <a href="https://twitter.com/O_zbair">
             <img src="https://img.shields.io/badge/twitter-follow-%230077B5.svg?&style=for-the-badge&logo=twitter" />
@@ -32,7 +32,7 @@
 
 ### Connect with me:
 - <img align="left" width="22px" src="https://img.icons8.com/android/24/000000/twitter.png"/> [Twitter](https://twitter.com/O_zbair)<br>
-- <img align="left" width="22px" src="https://img.icons8.com/android/24/000000/linkedin.png"/> [LinkedIn](https://www.linkedin.com/in/oussama-zbair-373991202/)<br>
+- <img align="left" width="22px" src="https://img.icons8.com/android/24/000000/linkedin.png"/> [LinkedIn](https://www.linkedin.com/in/oussama-zbair/)<br>
 - <img align="left" width="22px" src="https://img.icons8.com/material/24/000000/stackoverflow.png"/> [stackoverflow](https://stackoverflow.com/users/13872181/osama-zbair?tab=profile)
 - <img align="left" width="22px" src="https://img.icons8.com/material-rounded/24/000000/discord-logo.png"/> [Discrod](https://discord.com/channels/@me)
 <br>
