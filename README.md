@@ -1,3 +1,12 @@
+<div>
+        <a href="https://www.linkedin.com/in/oussama-zbair/">
+            <img src="https://img.shields.io/badge/linkedin-follow-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
+        </a>&nbsp;&nbsp; <a href="https://twitter.com/O_zbair">
+            <img src="https://img.shields.io/badge/twitter-follow-%230077B5.svg?&style=for-the-badge&logo=twitter" />
+        </a>&nbsp;&nbsp;
+</div>
+
+
 ### Hi there 👋 , I'm Osama Zbair  ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=O-zbair.O-zbair&color=00cf00)
 
 
@@ -9,15 +18,7 @@
 
 
 
-<div>
-        <a href="https://www.linkedin.com/in/oussama-zbair/">
-            <img src="https://img.shields.io/badge/linkedin-follow-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
-        </a>&nbsp;&nbsp; <a href="https://twitter.com/O_zbair">
-            <img src="https://img.shields.io/badge/twitter-follow-%230077B5.svg?&style=for-the-badge&logo=twitter" />
-        </a>&nbsp;&nbsp;
-</div>
 
-<br/><br/>
 
 
 
