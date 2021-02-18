@@ -17,7 +17,7 @@
     <br>[![](https://github.com/O-zbair/O-zbair/blob/main/code.gif?raw=true)](https://github.com/O-zbair/O-zbair/blob/main/code.gif?raw=true)
 
 
-### Connect with me:
+### Get in touch :
 - <img align="left" width="22px" src="https://img.icons8.com/android/24/000000/twitter.png"/> [Twitter](https://twitter.com/O_zbair)<br>
 - <img align="left" width="22px" src="https://img.icons8.com/android/24/000000/linkedin.png"/> [LinkedIn](https://www.linkedin.com/in/oussama-zbair/)<br>
 - <img align="left" width="22px" src="https://img.icons8.com/material/24/000000/stackoverflow.png"/> [stackoverflow](https://stackoverflow.com/users/13872181/osama-zbair?tab=profile)
