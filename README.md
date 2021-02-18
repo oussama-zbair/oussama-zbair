@@ -1,3 +1,4 @@
+[![](https://github.com/O-zbair/O-zbair/blob/main/code.gif?raw=true)](https://github.com/O-zbair/O-zbair/blob/main/code.gif?raw=true)
 
 
 
@@ -18,8 +19,6 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=O-zbair&show_icons=true&theme=highcontrast"><br>
  
- [![](https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47rr22k7scx1rjht79l66ybkrdmho9gjyirx4vwhdz&rid=giphy.gif)](https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47rr22k7scx1rjht79l66ybkrdmho9gjyirx4vwhdz&rid=giphy.gif)
-
 
 
 
