@@ -1,4 +1,11 @@
-[![](https://github.com/O-zbair/O-zbair/blob/main/code.gif?raw=true)](https://github.com/O-zbair/O-zbair/blob/main/code.gif?raw=true)
+### Hi there 👋 , I'm Osama Zbair  ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=O-zbair.O-zbair&color=00cf00)
+
+
+- 🔭 I’m currently working on a web projects 
+- 🌱 I’m currently learning everything including Data Science Blockchain , Cloud Computing
+- 👯 I’m looking to collaborate on Open Source Web tools Projects
+- 💬 Ask me anything about : Web development , Python , JavaScript , Cyber Security , Linux
+    <br>[![](https://github.com/O-zbair/O-zbair/blob/main/code.gif?raw=true)](https://github.com/O-zbair/O-zbair/blob/main/code.gif?raw=true)
 
 
 
@@ -26,14 +33,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O-zbair&langs_count=8)](https://github.com/O-zbair/github-readme-stats)
 
 
-### Hi there 👋 , I'm Osama Zbair  ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=O-zbair.O-zbair&color=00cf00)
 
-
-- 🔭 I’m currently working on a web projects 
-- 🌱 I’m currently learning everything including Data Science Blockchain , Cloud Computing
-- 👯 I’m looking to collaborate on Open Source Web tools Projects
-- 💬 Ask me anything about : Web development , Python , JavaScript , Cyber Security , Linux
-    <br>
 
 ### Connect with me:
 - <img align="left" width="22px" src="https://img.icons8.com/android/24/000000/twitter.png"/> [Twitter](https://twitter.com/O_zbair)<br>
