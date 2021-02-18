@@ -7,10 +7,8 @@
         </a>&nbsp;&nbsp; <a href="https://twitter.com/O_zbair">
             <img src="https://img.shields.io/badge/twitter-follow-%230077B5.svg?&style=for-the-badge&logo=twitter" />
         </a>&nbsp;&nbsp;
-      
-       
-        
 </div>
+
 <br/><br/>
 
 
@@ -18,11 +16,19 @@
 
 
 
-
 <img  src="https://github-readme-stats.vercel.app/api?username=O-zbair&show_icons=true&theme=highcontrast"><br>
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-zbair&layout=compact">
+ 
+ [![](https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47rr22k7scx1rjht79l66ybkrdmho9gjyirx4vwhdz&rid=giphy.gif)](https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47rr22k7scx1rjht79l66ybkrdmho9gjyirx4vwhdz&rid=giphy.gif)
 
-### Hi there 👋 , I'm Osama Zbair 
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O-zbair&langs_count=8)](https://github.com/O-zbair/github-readme-stats)
+
+
+### Hi there 👋 , I'm Osama Zbair  ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=O-zbair.O-zbair&color=00cf00)
+
 
 - 🔭 I’m currently working on a web projects 
 - 🌱 I’m currently learning everything including Data Science Blockchain , Cloud Computing
