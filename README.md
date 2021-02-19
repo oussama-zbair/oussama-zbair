@@ -37,7 +37,9 @@
 
 ## Stats:
 
-<img  src="https://github-readme-stats.vercel.app/api?username=O-zbair&show_icons=true&theme=highcontrast"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O-zbair&langs_count=8)](https://github.com/O-zbair/github-readme-stats)
+<img  src="https://github-readme-stats.vercel.app/api?username=O-zbair&show_icons=true&theme=highcontrast">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
  
 
