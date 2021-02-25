@@ -9,12 +9,11 @@
 
 ### Hi there 👋 , I'm Osama Zbair  ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=O-zbair.O-zbair&color=00cf00)
 
+#### 🔭 I’m currently working on a web projects 
+#### 🌱 I’m currently learning everything including Data Science Blockchain , Cloud Computing
+#### 👯 I’m looking to collaborate on Open Source Web tools Projects
+#### 💬 Ask me anything about : Web development , Python , JavaScript , Cyber Security , Linux
 
-- 🔭 I’m currently working on a web projects 
-- 🌱 I’m currently learning everything including Data Science Blockchain , Cloud Computing
-- 👯 I’m looking to collaborate on Open Source Web tools Projects
-- 💬 Ask me anything about : Web development , Python , JavaScript , Cyber Security , Linux
-    <br>[![](https://github.com/O-zbair/O-zbair/blob/main/code.gif?raw=true)](https://github.com/O-zbair/O-zbair/blob/main/code.gif?raw=true)
 
 
 ### Get in touch :
