@@ -1,3 +1,5 @@
+[![Header](https://github.com/ozbair/ozbair/blob/main/website.gif?raw=true)](https://ozbair.github.io/)
+
 
 <div>
         <a href="https://www.linkedin.com/in/oussama-zbair/">
