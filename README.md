@@ -1,3 +1,10 @@
+
+[![](https://github.com/ozbair/ozbair/blob/main/Profile.gif?raw=true)](https://github.com/ozbair/ozbair/blob/main/Profile.gif?raw=true)
+
+
+
+
+
 <div>
         <a href="https://www.linkedin.com/in/oussama-zbair/">
             <img src="https://img.shields.io/badge/linkedin-follow-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
