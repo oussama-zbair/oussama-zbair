@@ -1,10 +1,3 @@
-<a href="https://ozbair.github.io/" 
-        [![](https://github.com/ozbair/ozbair/blob/main/Profile.gif?raw=true)](https://github.com/ozbair/ozbair/blob/main/Profile.gif?raw=true)
-</a>
-
-
-
-
 
 <div>
         <a href="https://www.linkedin.com/in/oussama-zbair/">
