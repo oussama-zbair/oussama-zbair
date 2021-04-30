@@ -15,7 +15,7 @@
 #### 🔭 I’m currently working on a web projects 
 #### 🌱 I’m currently learning everything including Data Science Blockchain , Cloud Computing
 #### 👯 I’m looking to collaborate on Open Source Web tools Projects
-#### 💬 Ask me anything about : Web development , Python , JavaScript , Cyber Security , Linux
+#### 💬 Ask me anything about :<b> Web development , Python , JavaScript , Cyber Security , Linux </b>
 
 [![](https://github.com/ozbair/ozbair/blob/main/code.gif?raw=true)](https://github.com/ozbair/ozbair/blob/main/code.gif?raw=true)
 
