@@ -13,7 +13,7 @@
 ### Hi there 👋 , I'm Oussama Zbair  ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=O-zbair.O-zbair&color=00cf00)
 
 #### 🔭 I’m currently working on a web projects 
-#### 🌱 I’m currently learning everything including **Data Science Blockchain , Cloud Computing**
+#### 🌱 Enthusiast in **Data Science , Blockchain and Cloud Computing**
 #### 👯 I’m looking to collaborate on Open Source **Web** tools Projects
 #### 💬 Ask me anything about : **Web development , Python , JavaScript , Cyber Security , Linux** .
 
