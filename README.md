@@ -1,4 +1,4 @@
-[![Header](https://github.com/ozbair/ozbair/blob/main/website.gif?raw=true)](https://ozbair.github.io/thirdPortfolio/)
+[![Header](https://github.com/oussama-zbair/oussama-zbair/blob/main/website.gif?raw=true)](https://oussama-zbair.github.io/thirdPortfolio/)
 
 
 <div>
