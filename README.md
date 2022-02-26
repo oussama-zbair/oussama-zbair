@@ -1,5 +1,6 @@
 [![Header](https://github.com/oussama-zbair/oussama-zbair/blob/main/assets/website.gif?raw=true)](https://oussama-zbair.github.io/Social-Network/)
 
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=O-zbair.O-zbair&color=00cf00)
 
 <div>
         <a href="https://www.linkedin.com/in/oussama-zbair/">
@@ -7,16 +8,21 @@
         </a>&nbsp;&nbsp; <a href="https://twitter.com/O_zbair">
             <img src="https://img.shields.io/badge/twitter-follow-%230077B5.svg?&style=for-the-badge&logo=twitter" />
         </a>&nbsp;&nbsp;
+	
 </div>
 
+<h2><details><summary>About me:</summary>
 
-### Hi there 👋 , I'm Oussama Zbair  ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=O-zbair.O-zbair&color=00cf00)
+<p style=" font-size: 20px;">
+Experienced Full Stack Developer with a demonstrated history of working in the internet industry. Skilled in Vue.js, Linux System Administration, DevOps, Information Security, and Amazon Web Services (AWS).
+</p>
+
 
 #### 🔭 I’m currently working on a web projects 
 #### 🌱 Enthusiast in **Data Science , Blockchain and Cloud Computing**
 #### 👯 I’m looking to collaborate on Open Source **Web** tools Projects
 #### 💬 Ask me anything about : **Web development , Python , JavaScript , Cyber Security , Linux** .
-
+</details>
 
 <h2><details><summary>Get in touch:</summary>
 <a href="mailto:oussama.zbair9@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a> 
