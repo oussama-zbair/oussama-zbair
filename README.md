@@ -54,6 +54,9 @@
 <p align="center"> <a href="https://github.com/oussama-zbair"><img src="https://github-profile-trophy.vercel.app/?username=oussama-zbair&margin-w=5&theme=radical" alt="TopCodeBeast" /></a> </p>
 
 <br>
+<p align="center">
+  <img src="https://github.com/oussama-zbair/blob/main/src/assets/github-user-contribution.svg"> 
+</p> 
 
 
 
