@@ -20,10 +20,11 @@
 [![](https://github.com/ozbair/ozbair/blob/main/code.gif?raw=true)](https://github.com/ozbair/ozbair/blob/main/code.gif?raw=true)
 
 ### Get in touch :
-- <img align="left" width="22px" src="https://img.icons8.com/android/24/000000/twitter.png"/> [Twitter](https://twitter.com/O_zbair)<br>
-- <img align="left" width="22px" src="https://img.icons8.com/android/24/000000/linkedin.png"/> [LinkedIn](https://www.linkedin.com/in/oussama-zbair/)<br>
-- <img align="left" width="22px" src="https://img.icons8.com/material/24/000000/stackoverflow.png"/> [stackoverflow](https://stackoverflow.com/users/13872181/osama-zbair?tab=profile)
-- <img align="left" width="22px" src="https://img.icons8.com/material-rounded/24/000000/discord-logo.png"/> [Discrod](https://discord.com/channels/@me)
+<a href="mailto:oussama.zbair9@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a> 
+<a href="https://www.linkedin.com/in/oussama-zbair/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://t.me/RegExe" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
+<a href="https://twitter.com/O_zbair" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
+
 <br>
 
 ### Web Tools & Skills:
