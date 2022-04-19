@@ -11,7 +11,7 @@
 	
 </div>
 
-<h4><details><summary>About me:</summary>
+<details><summary><h4>About Me</h4></summary>
 
 <p>Developer Interested in web technologies & cloud computing & distributed systems.</p>
 
