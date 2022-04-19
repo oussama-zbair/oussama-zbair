@@ -13,15 +13,13 @@
 
 <h4><details><summary>About me:</summary>
 
-<p>
-Experienced Full Stack Developer with a demonstrated history of working in the internet industry. Skilled in Vue.js, Linux System Administration, DevOps, Information Security, and Amazon Web Services (AWS).
-</p>
+<p>Developer Interested in web technologies & cloud computing & distributed systems.</p>
 
 
 #### 🔭 I’m currently working on a web projects 
-#### 🌱 Enthusiast in **Data Science , Blockchain and Cloud Computing**
+#### 🌱 Enthusiast in **Data Science , Cloud Computing**
 #### 👯 I’m looking to collaborate on Open Source **Web** tools Projects
-#### 💬 Ask me anything about : **Web development , Python , JavaScript , Cyber Security , Linux** .
+#### 💬 Ask me anything about : **Backend development , Python , JavaScript , Cyber Security , Linux** .
 </details>
 
 <h4><details><summary>Get in touch:</summary>
