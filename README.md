@@ -1,6 +1,6 @@
 [![Header](https://github.com/oussama-zbair/oussama-zbair/blob/main/assets/website.gif?raw=true)](https://oussama-zbair.me)
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=O-zbair.O-zbair&color=00cf00)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=O-zbair.O-zbair&color=0080FF)
 
 <div>
         <a href="https://www.linkedin.com/in/oussama-zbair/">
