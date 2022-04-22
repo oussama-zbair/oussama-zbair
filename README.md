@@ -1,4 +1,4 @@
-[![Header](https://github.com/oussama-zbair/oussama-zbair/blob/main/assets/website.gif?raw=true)](https://oussama-zbair.me)
+[![Header](https://github.com/oussama-zbair/oussama-zbair/blob/main/assets/w2.gif?raw=true)](https://oussama-zbair.me)
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=O-zbair.O-zbair&color=0080FF)
 
