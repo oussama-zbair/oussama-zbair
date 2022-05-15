@@ -1,11 +1,11 @@
 [![Header](https://github.com/oussama-zbair/oussama-zbair/blob/main/assets/rec-area.gif?raw=true)](https://oussama-zbair.me)
 
-<h1 align="center"> Hello Wolrd <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<h3 align ="center"> <strong> Optimism is an occupational hazard of programming; feedback is the treatment </strong> </h3>
+<h1 align="center">ʜᴇʟʟᴏ ᴡᴏʟʀᴅ<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h3 align ="center"> <strong>𝙾𝚙𝚝𝚒𝚖𝚒𝚜𝚖 𝚒𝚜 𝚊𝚗 𝚘𝚌𝚌𝚞𝚙𝚊𝚝𝚒𝚘𝚗𝚊𝚕 𝚑𝚊𝚣𝚊𝚛𝚍 𝚘𝚏 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐; 𝚏𝚎𝚎𝚍𝚋𝚊𝚌𝚔 𝚒𝚜 𝚝𝚑𝚎 𝚝𝚛𝚎𝚊𝚝𝚖𝚎𝚗𝚝</strong> </h3>
 
-<h4>About Me</h4>
+<h4>About me</h4>
 
-<p>I am Oussama 💇‍♂️ , a passoniate Fullstack Engineer.I am a Self-taught software Engineer. I love to work with new Technologies and like to learn new things everytime . Interested in web technologies & cloud computing & distributed systems.</p>
+<p>𝙸 𝚊𝚖 𝙾𝚞𝚜𝚜𝚊𝚖𝚊 💇‍♂️ , 𝚊 𝚙𝚊𝚜𝚜𝚘𝚗𝚒𝚊𝚝𝚎 𝙵𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛.𝙸 𝚊𝚖 𝚊 𝚂𝚎𝚕𝚏-𝚝𝚊𝚞𝚐𝚑𝚝 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛. 𝙸 𝚕𝚘𝚟𝚎 𝚝𝚘 𝚠𝚘𝚛𝚔 𝚠𝚒𝚝𝚑 𝚗𝚎𝚠 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚊𝚗𝚍 𝚕𝚒𝚔𝚎 𝚝𝚘 𝚕𝚎𝚊𝚛𝚗 𝚗𝚎𝚠 𝚝𝚑𝚒𝚗𝚐𝚜 𝚎𝚟𝚎𝚛𝚢𝚝𝚒𝚖𝚎 . 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝚠𝚎𝚋 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 & 𝚌𝚕𝚘𝚞𝚍 𝚌𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐 & 𝚍𝚒𝚜𝚝𝚛𝚒𝚋𝚞𝚝𝚎𝚍 𝚜𝚢𝚜𝚝𝚎𝚖𝚜.</p>
 <a href="https://www.linkedin.com/in/oussama-zbair/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="https://twitter.com/O_zbair" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
 <a href="https://t.me/RegExe" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
@@ -16,16 +16,16 @@
 ##  
         
 <ul align="left">
-  <li> 🏫 I’m currently working on a web projectsA </li>
-  <li> 🚀 DM me for collab! </li>
-  <li>🌱 Enthusiast in Data Science , Cloud Computing</li>
-  <li> 💬 Ask me about Anything </li>
+  <li> 🏫 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚠𝚎𝚋 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜</li>
+  <li> 🚀 𝙳𝙼 𝚖𝚎 𝚏𝚘𝚛 𝚌𝚘𝚕𝚕𝚊𝚋! </li>
+  <li>🌱𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝 𝚒𝚗 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 , 𝙲𝚕𝚘𝚞𝚍 𝙲𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐</li>
+  <li> 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 </li>
 </ul>  
         
 ##        
      
 <h4>⚛ Frameworks, Languages & Other Tools
-
+	<br>
  <table>
    <tr>
       <td>
