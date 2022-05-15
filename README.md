@@ -14,7 +14,7 @@
 
  
 ##  
-<img 
+<img alt="" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px" align="right">
         
 <ul align="left">
   <li> 🏫 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚠𝚎𝚋 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜</li>
@@ -30,7 +30,7 @@
  <table>
    <tr>
       <td>
-        <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        <img alt="python" height=64px  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
         <br> Python
      </td>
      <td>
