@@ -2,37 +2,31 @@
 
 <h1 align="center"> Hello Wolrd <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h3 align ="center"> <strong> Optimism is an occupational hazard of programming; feedback is the treatment </strong> </h3>
-<div>
-        <a href="https://www.linkedin.com/in/oussama-zbair/">
-            <img src="https://img.shields.io/badge/linkedin-follow-%230077B5.svg?&style=for-the-badge&logo=linkedin" />
-        </a>&nbsp;&nbsp; <a href="https://twitter.com/O_zbair">
-            <img src="https://img.shields.io/badge/twitter-follow-%230077B5.svg?&style=for-the-badge&logo=twitter" />
-        </a>&nbsp;&nbsp; <a href="#">
-            <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=O-zbair.O-zbair&color=0080FF" />
-		
 
-</div>
-
-<summary><h4>About Me</h4></summary>
+<h4>About Me</h4>
 
 <p>I am Oussama 💇‍♂️ , a passoniate Fullstack Engineer.I am a Self-taught software Engineer. I love to work with new Technologies and like to learn new things everytime . Interested in web technologies & cloud computing & distributed systems.</p>
-
-
-#### 🔭 I’m currently working on a web projects 
-#### 🌱 Enthusiast in **Data Science , Cloud Computing**
-#### 👯 I’m looking to collaborate on Open Source **Web** tools Projects
-#### 💬 Ask me anything about : **Backend development , Python , JavaScript , Cyber Security , Linux** .
-</details>
-
-<h4><summary>Get in touch:</summary>
-<a href="mailto:oussama.zbair9@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a> 
 <a href="https://www.linkedin.com/in/oussama-zbair/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="https://t.me/RegExe" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
 <a href="https://twitter.com/O_zbair" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
-<br>
-</details>
+<a href="https://t.me/RegExe" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
+<a href="https://discordapp.com/users/916597112882495510" target="blank"><img src="https://img.shields.io/badge/@Guri-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/></a>
+<a href="mailto:oussama.zbair9@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a> 
 
-<h4><summary>Tools & Skills:</summary>
+ 
+##  
+        
+<img src="https://github.com/oussama-zbair/oussama-zbair/blob/main/src/assets/website.gif" align="right" height="180" width="280">           
+        
+<ul align="left">
+  <li> 🏫 I’m currently working on a web projectsA </li>
+  <li> 🚀 DM me for collab! </li>
+  <li>🌱 Enthusiast in Data Science , Cloud Computing</li>
+  <li> 💬 Ask me about Anything </li>
+</ul>  
+        
+##        
+     
+<h4>⚛ Frameworks, Languages & Other Tools
 
  <table>
    <tr>
@@ -126,10 +120,10 @@
    </tr>
 
  </table>
- 
- <h4>ℹ️ &nbsp;Github Info</h2>
+
+<h4>ℹ️ &nbsp;Github Info</h2>
   <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussama-zbair&theme=github_dark" alt="" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussama-zbair&theme=radical" alt="" align = "center"/></p>
 
   <summary><b>⚡ Github Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=oussama-zbair&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="" align = "center"/>
