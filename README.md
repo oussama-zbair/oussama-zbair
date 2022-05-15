@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/oussama-zbair/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="https://twitter.com/O_zbair" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
 <a href="https://t.me/RegExe" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
-<a href="https://discordapp.com/users/916597112882495510" target="blank"><img src="https://img.shields.io/badge/@Guri-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/></a>
+<a href="https://discordapp.com/users/763812683795136513" target="blank"><img src="https://img.shields.io/badge/@Oussama-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/></a>
 <a href="mailto:oussama.zbair9@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a> 
 
  
