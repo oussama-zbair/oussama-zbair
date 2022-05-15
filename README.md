@@ -15,8 +15,6 @@
  
 ##  
         
-<img src="https://github.com/oussama-zbair/oussama-zbair/blob/main/src/assets/Vector.gif?raw=true" align="right" height="180" width="280">           
-        
 <ul align="left">
   <li> 🏫 I’m currently working on a web projectsA </li>
   <li> 🚀 DM me for collab! </li>
