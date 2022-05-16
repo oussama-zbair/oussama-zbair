@@ -6,12 +6,19 @@
 <h4>About me</h4>
 
 <p>𝙸 𝚊𝚖 𝙾𝚞𝚜𝚜𝚊𝚖𝚊 💇‍♂️ , 𝚊 𝚙𝚊𝚜𝚜𝚘𝚗𝚒𝚊𝚝𝚎 𝙵𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛.𝙸 𝚊𝚖 𝚊 𝚂𝚎𝚕𝚏-𝚝𝚊𝚞𝚐𝚑𝚝 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛. 𝙸 𝚕𝚘𝚟𝚎 𝚝𝚘 𝚠𝚘𝚛𝚔 𝚠𝚒𝚝𝚑 𝚗𝚎𝚠 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚊𝚗𝚍 𝚕𝚒𝚔𝚎 𝚝𝚘 𝚕𝚎𝚊𝚛𝚗 𝚗𝚎𝚠 𝚝𝚑𝚒𝚗𝚐𝚜 𝚎𝚟𝚎𝚛𝚢𝚝𝚒𝚖𝚎 . 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝚠𝚎𝚋 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 & 𝚌𝚕𝚘𝚞𝚍 𝚌𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐 & 𝚍𝚒𝚜𝚝𝚛𝚒𝚋𝚞𝚝𝚎𝚍 𝚜𝚢𝚜𝚝𝚎𝚖𝚜.</p>
+<h5>Social</h5>
+
 <a href="https://www.linkedin.com/in/oussama-zbair/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="https://twitter.com/O_zbair" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
 <a href="https://t.me/RegExe" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
-<a href="https://discordapp.com/users/763812683795136513" target="blank"><img src="https://img.shields.io/badge/@Oussama-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/></a>
-<a href="mailto:oussama.zbair9@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a> 
+<a href="https://discordapp.com/users/763812683795136513" target="blank"><img src="https://img.shields.io/badge/Oussama-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/></a> <a href="skype:live:.cid.9f973439629d02ed?chat" target="blank"><img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="gmail"/></a> 
 
+<h5>Developer/Forums</h5>
+<a href="https://stackoverflow.com/users/13872181/oussama-zbair" target="blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="devto"/></a>
+<a href="https://www.hackerrank.com/oussama_zbair" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/></a>
+<a href="https://www.kaggle.com/oussamazbair" target="blank"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/></a>
+<a href="https://dev.to/o_zbair" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="devto"/></a>
+ 
  
 ##  
 <img alt="" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px" align="right">
