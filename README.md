@@ -34,10 +34,10 @@
      
 <h4>⚛ Frameworks, Languages & Other Tools
 	<br>
- <table>
+  <table>
    <tr>
       <td>
-        <img alt="python" height=64px  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
         <br> Python
      </td>
      <td>
@@ -50,20 +50,7 @@
      </td>
       <td align="center">
       <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-	  <br> Javascript
-	  <td align="center">
-       <img alt="java" height=64px src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-       <br> Java
-     </td>
-	 <td align="center">
-       <img alt="Spring" height=64px src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
-       <br> Spring boot
-     </td> 
-	  <td align="center">
-       <img alt="Git" height=64px src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
-       <br> Git
-     </td>
-      <br>
+      <br>Javascript
     </td>
           <td align="center">
        <img alt="React" height=64px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
@@ -94,6 +81,14 @@
      <td align="center">
        <img alt="git" height=64px src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
        <br> Git
+     </td>
+	  <td align="center">
+       <img alt="java" height=64px src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+       <br> Java
+     </td>
+	  <td align="center">
+       <img alt="Spring" height=64px src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
+       <br> Spring boot
      </td>
         <td align="center">
        <img alt="bash" height=64px src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
