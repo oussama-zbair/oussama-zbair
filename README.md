@@ -138,12 +138,12 @@
  <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=oussama-zbair&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="" /></p>
 
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="" src="https://activity-graph.herokuapp.com/graph?username=oussama-zbair&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<summary><b>📊 Github Commit Graph</b></summary>
+<p align="center"><a href="https://www.github.com/oussama-zbair"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=oussama-zbair&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" ></a></p>
 <!-- </details>
 <details>    -->
  <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/oussama-zbair"><img src="https://github-profile-trophy.vercel.app/?username=oussama-zbair&margin-w=5&theme=radical" alt="" /></a> </p>
+<p align="center"> <a href="https://github.com/oussama-zbair"><img src="https://github-profile-trophy.vercel.app/?username=oussama-zbair&margin-w=5&theme=radical" alt="" /></a></p>
 
 <br>
 
