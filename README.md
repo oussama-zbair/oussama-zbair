@@ -125,25 +125,25 @@
 
 <h4>ℹ️ &nbsp;Github Info</h2>
   <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussama-zbair&theme=radical" alt="" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussama-zbair&theme=radical&hide_border=false" alt="" align = "center"/></p>
 
   <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=oussama-zbair&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=oussama-zbair&hide=html&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=oussama-zbair&hide_border=true&count_private=true&show_icons=true&hide_border=false&theme=radical" alt="" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=oussama-zbair&hide=html&show_icons=true&locale=en&layout=compact&hide_border=false&theme=radical" alt="" align = "center"/></p>
 	
 
 
 
 
  <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=oussama-zbair&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=oussama-zbair&theme=black-ice&hide_border=false&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="" /></p>
 
 <summary><b>📊 Github Commit Graph</b></summary>
-<p align="center"><a href="https://www.github.com/oussama-zbair"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=oussama-zbair&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" ></a></p>
+<p align="center"><a href="https://www.github.com/oussama-zbair"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=oussama-zbair&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=false&custom_title=GitHub%20Commits%20Graph" ></a></p>
 <!-- </details>
 <details>    -->
  <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/oussama-zbair"><img src="https://github-profile-trophy.vercel.app/?username=oussama-zbair&margin-w=5&theme=radical" alt="" /></a></p>
+<p align="center"> <a href="https://github.com/oussama-zbair"><img src="https://github-profile-trophy.vercel.app/?username=oussama-zbair&margin-w=5&theme=radical&hide_border=false" alt="" /></a></p>
 
 <br>
 
