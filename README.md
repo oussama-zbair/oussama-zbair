@@ -6,7 +6,7 @@
 
 <h4>About me</h4>
 
-<p>𝙷𝚎𝚕𝚕𝚘 𝙸 𝚊𝚖 𝙾𝚞𝚜𝚜𝚊𝚖𝚊, 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 , 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚎 𝚒𝚗 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚜𝚌𝚒𝚎𝚗𝚌𝚎 & 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 . 𝚑𝚒𝚐𝚑𝚕𝚢 𝚛𝚎𝚜𝚘𝚞𝚛𝚌𝚎𝚏𝚞𝚕 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 𝚊𝚗𝚍 𝚠𝚎𝚕𝚕-𝚛𝚘𝚞𝚗𝚍𝚎𝚍 𝙸𝚃 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕 𝚠𝚒𝚝𝚑 𝚘𝚟𝚎𝚛 𝟹 𝚢𝚎𝚊𝚛𝚜 𝚘𝚏 𝚌𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎. 𝚙𝚘𝚜𝚜𝚎𝚜𝚜𝚒𝚗𝚐 𝚎𝚡𝚙𝚎𝚛𝚝 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚕𝚒𝚏𝚎𝚌𝚢𝚌𝚕𝚎 𝚊𝚗𝚍 𝚊 𝚜𝚘𝚕𝚒𝚍 𝚞𝚗𝚍𝚎𝚛𝚜𝚝𝚊𝚗𝚍𝚒𝚗𝚐 𝚘𝚏 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚛𝚎𝚚𝚞𝚒𝚛𝚎𝚍 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚊𝚗𝚍 𝚍𝚎𝚙𝚕𝚘𝚢𝚖𝚎𝚗𝚝 𝚘𝚏 𝚑𝚒𝚐𝚑𝚕𝚢 𝚊𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚊𝚗𝚍 𝚜𝚌𝚊𝚕𝚊𝚋𝚕𝚎 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜, 𝚒𝚗𝚌𝚕𝚞𝚍𝚒𝚗𝚐 𝚝𝚑𝚎𝚒𝚛 𝚗𝚎𝚝𝚠𝚘𝚛𝚔𝚜 𝚊𝚗𝚍 𝚒𝚗𝚏𝚛𝚊𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎. 𝙸 𝚕𝚘𝚟𝚎 𝚝𝚘 𝚠𝚘𝚛𝚔 𝚠𝚒𝚝𝚑 𝚗𝚎𝚠 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚊𝚗𝚍 𝚕𝚒𝚔𝚎 𝚝𝚘 𝚕𝚎𝚊𝚛𝚗 𝚗𝚎𝚠 𝚝𝚑𝚒𝚗𝚐𝚜 𝚎𝚟𝚎𝚛𝚢𝚝𝚒𝚖𝚎..</p>
+<p>𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚠𝚒𝚝𝚑 𝚊 𝚍𝚎𝚐𝚛𝚎𝚎 𝚒𝚗 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 & 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢, 𝙸 𝚋𝚛𝚒𝚗𝚐 𝚘𝚟𝚎𝚛 𝟺 𝚢𝚎𝚊𝚛𝚜 𝚘𝚏 𝚌𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎 𝚝𝚘 𝚝𝚑𝚎 𝚝𝚊𝚋𝚕𝚎. 𝙼𝚢 𝚋𝚊𝚌𝚔𝚐𝚛𝚘𝚞𝚗𝚍 𝚒𝚗𝚌𝚕𝚞𝚍𝚎𝚜 𝚎𝚡𝚙𝚎𝚛𝚝 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚕𝚒𝚏𝚎𝚌𝚢𝚌𝚕𝚎 𝚊𝚗𝚍 𝚊 𝚜𝚝𝚛𝚘𝚗𝚐 𝚞𝚗𝚍𝚎𝚛𝚜𝚝𝚊𝚗𝚍𝚒𝚗𝚐 𝚘𝚏 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚗𝚎𝚌𝚎𝚜𝚜𝚊𝚛𝚢 𝚏𝚘𝚛 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚊𝚗𝚍 𝚍𝚎𝚙𝚕𝚘𝚢𝚒𝚗𝚐 𝚑𝚒𝚐𝚑𝚕𝚢 𝚊𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎, 𝚜𝚌𝚊𝚕𝚊𝚋𝚕𝚎 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜, 𝚒𝚗𝚌𝚕𝚞𝚍𝚒𝚗𝚐 𝚝𝚑𝚎𝚒𝚛 𝚗𝚎𝚝𝚠𝚘𝚛𝚔𝚜 𝚊𝚗𝚍 𝚒𝚗𝚏𝚛𝚊𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎. 𝙸 𝚊𝚖 𝚊 𝚛𝚎𝚜𝚘𝚞𝚛𝚌𝚎𝚏𝚞𝚕 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 𝚊𝚗𝚍 𝚠𝚎𝚕𝚕-𝚛𝚘𝚞𝚗𝚍𝚎𝚍 𝙸𝚃 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕 𝚠𝚒𝚝𝚑 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 𝚏𝚘𝚛 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚗𝚍 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚗𝚎𝚠 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜. 𝙸 𝚊𝚖 𝚍𝚎𝚍𝚒𝚌𝚊𝚝𝚎𝚍 𝚝𝚘 𝚍𝚎𝚕𝚒𝚟𝚎𝚛𝚒𝚗𝚐 𝚑𝚒𝚐𝚑-𝚚𝚞𝚊𝚕𝚒𝚝𝚢 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜 𝚊𝚗𝚍 𝚌𝚘𝚗𝚜𝚝𝚊𝚗𝚝𝚕𝚢 𝚜𝚝𝚛𝚒𝚟𝚒𝚗𝚐 𝚝𝚘 𝚒𝚖𝚙𝚛𝚘𝚟𝚎 𝚖𝚢 𝚜𝚔𝚒𝚕𝚕𝚜 𝚊𝚗𝚍 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎.</p>
 <h5>Social</h5>
 
 <a href="https://www.linkedin.com/in/oussama-zbair/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
@@ -128,7 +128,7 @@
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussama-zbair&theme=radical&hide_border=false" alt="" align = "center"/></p>
 
   <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=oussama-zbair&hide_border=true&count_private=true&show_icons=true&hide_border=false&theme=radical" alt="" align = "center"/>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=oussama-zbair&hide_border=true&count_private=true&show_icons=true&hide_border=false&theme=radical" alt="" align = "center"/><br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=oussama-zbair&hide=html&show_icons=true&locale=en&layout=compact&hide_border=false&theme=radical" alt="" align = "center"/></p>
 	
 
@@ -147,21 +147,4 @@
 
 <br>
 
-
-
 [![](https://github.com/oussama-zbair/oussama-zbair/blob/main/assets/github-user-contribution.svg?raw=true)](https://oussama-zbair.github.io/Social-Network/)
- 
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
