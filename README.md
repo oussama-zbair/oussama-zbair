@@ -1,7 +1,7 @@
 [![Header](https://github.com/oussama-zbair/oussama-zbair/blob/main/assets/rec-area.gif?raw=true)](https://oussama-zbair.github.io/)
 ![](https://komarev.com/ghpvc/?username=oussama-zbair&style=flat-square)
 
-<h1 align="center">ʜᴇʟʟᴏ ᴡᴏʟʀᴅ  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=1FD5F7&center=true&width=435&lines=%3CHello+World!%2F%3E;%3CBonjour+le+monde!%2F%3E;%3CHola+mundo%2F%3E;%3CHallo+Welt%2F%3E;%3C%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C+%2F%3E;%3C%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E4%B8%96%E7%95%8C+%2F%3E;%3C%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%EC%84%B8%EA%B3%84+%2F%3E;%3C+%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%2C+%D0%BC%D0%B8%D1%80+%2F%3E" alt="Typing SVG" /></a>
 <h3 align ="center"> <strong>█▓▒­░⡷ 𝙾𝚙𝚝𝚒𝚖𝚒𝚜𝚖 𝚒𝚜 𝚊𝚗 𝚘𝚌𝚌𝚞𝚙𝚊𝚝𝚒𝚘𝚗𝚊𝚕 𝚑𝚊𝚣𝚊𝚛𝚍 𝚘𝚏 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐; 𝚏𝚎𝚎𝚍𝚋𝚊𝚌𝚔 𝚒𝚜 𝚝𝚑𝚎 𝚝𝚛𝚎𝚊𝚝𝚖𝚎𝚗𝚝⠐⢾░▒▓█</strong> </h3>
 
 <h4>About me</h4>
