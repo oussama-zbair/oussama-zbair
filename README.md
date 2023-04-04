@@ -129,7 +129,7 @@
 
   <summary><b>⚡ Github Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=oussama-zbair&hide_border=true&count_private=true&show_icons=true&hide_border=false&theme=radical" alt="" align = "center"/><br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=oussama-zbair&hide=html, css&show_icons=true&locale=en&layout=compact&hide_border=false&theme=radical" alt="" align = "center"/></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=oussama-zbair&hide=html&show_icons=true&locale=en&layout=compact&hide_border=false&theme=radical" alt="" align = "center"/></p>
 	
 
 
