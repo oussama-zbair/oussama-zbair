@@ -1,4 +1,4 @@
-[![Header](https://github.com/oussama-zbair/oussama-zbair/blob/main/assets/rec-area.gif?raw=true)](https://oussamazbair.engineer/)
+[![Header](https://github.com/oussama-zbair/oussama-zbair/blob/main/assets/rec-area.gif?raw=true)](https://oussama-zbair.github.io/)
 ![](https://komarev.com/ghpvc/?username=oussama-zbair&style=flat-square)
 
 
