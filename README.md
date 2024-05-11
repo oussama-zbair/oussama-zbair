@@ -31,7 +31,6 @@
   <li> 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 </li>
 </ul>  
 
-<details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -135,32 +134,24 @@
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-</details>
 
 
 
-<details> 
   <summary><h2>Github Info</h2></summary>
   
-  <h3> Profile Details</h3>
   <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussama-zbair&theme=radical&hide_border=false" alt="" align = "center"/></p>
 
-  <h3>🔥 Streak Stats</h3>
 
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=oussama-zbair&theme=black-ice&hide_border=false&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="" align = "center"/></p>
 
-  <h3>💻 GitHub Profile Stats</h3>
 
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=oussama-zbair&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=oussama-zbair&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=html,css,Roff" height="192px"/></a>
-  <br/>
+ <p align="center"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=oussama-zbair&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></p>
 
-  <h3>📊 Github Commit Graph</h3>
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oussama-zbair&theme=tokyonight" alt="GitHub Profile Summary Card"></p>
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Oussama's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=oussama-zbair&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oussama-zbair&theme=tokyonight" alt="GitHub Profile Summary Card"></p>
+  
+  <p align="center"><img alt="Oussama's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=oussama-zbair&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></p>
 
- 
-</details>
 
