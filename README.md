@@ -1,6 +1,5 @@
 [![Header](https://github.com/oussama-zbair/oussama-zbair/blob/main/assets/rec-area.gif?raw=true)](https://oussama-zbair.github.io/)
 ![](https://komarev.com/ghpvc/?username=oussama-zbair&style=flat-square)
-[![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/amr3k/sveltegram)
 
 <h3 align="center"><strong>▓▒░ 𝗜𝗳 𝘆𝗼𝘂 𝘁𝗶𝗿𝗲𝗱, 𝗯𝗲 𝗹𝗶𝗸𝗲 𝗮𝗻 𝗔𝗷𝗮𝘅 𝗿𝗲𝗾𝘂𝗲𝘀𝘁 & 𝗥𝗘𝗦𝗧 ░▒▓</strong></h3>
 
