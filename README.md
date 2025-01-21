@@ -152,7 +152,7 @@ I am a resourceful computer programmer and well-rounded IT professional with a p
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oussama-zbair&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oussama-zbair" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
