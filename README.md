@@ -59,27 +59,26 @@ I am a **resourceful computer programmer** and **well-rounded IT professional** 
 
 ---
 
+
 ## 🏆 GitHub Stats
 
+### 🏅 Trophy Showcase
 ![Trophy](https://github-profile-trophy.vercel.app/?username=oussama-zbair&row=1&column=8&theme=radical&no-frame=true)
 
+### 📊 General Stats
+<img src="https://github-readme-stats.vercel.app/api?username=oussama-zbair&show_icons=true&theme=radical&hide_border=true" height="180em" alt="GitHub Stats"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=oussama-zbair&show_icons=true&theme=radical&hide_border=true" height="180em" alt="GitHub Stats"/>
-
-
+### ⏰ Productive Time Heatmap
 ![Contribution Heatmap](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oussama-zbair&theme=radical&utcOffset=1)
 
+### 📝 Profile Summary
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussama-zbair&theme=radical" alt="Profile Summary"/>
 
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussama-zbair&theme=radical" alt="Profile Summary"/>
-
-
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oussama-zbair&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
+### 🔄 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oussama-zbair&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
 
 
 ---
-
-
 
 ## 💻 Technologies & Tools
 
