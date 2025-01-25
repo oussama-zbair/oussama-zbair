@@ -6,11 +6,7 @@
 ---
 
 ## 👨‍💻 About Me
-
-**Software Engineer**  
-With a degree in **Computer Science & Information Technology**, I bring over **4 years of computing experience** to the table. My background includes expert knowledge of the software development lifecycle and a strong understanding of technologies necessary for building and deploying highly available, scalable applications, including their networks and infrastructure.
-
-I am a **resourceful computer programmer** and **well-rounded IT professional** with a passion for learning and exploring new technologies. Dedicated to delivering high-quality solutions, I constantly strive to improve my skills and knowledge to stay ahead in the ever-evolving tech industry.
+Software Engineer with a degree in Computer Science & Information Technology and over 4 years of experience. Proficient in the software development lifecycle, with expertise in designing and deploying highly available, scalable applications and their supporting infrastructure.
 
 ---
 
