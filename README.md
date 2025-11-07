@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me
-Software Engineer with a degree in Computer Science & Information Technology and over 4 years of experience. Proficient in the software development lifecycle, with expertise in designing and deploying highly available, scalable applications and their supporting infrastructure.
+Software Engineer with a degree in Computer Science & Information Technology . Proficient in the software development lifecycle, with expertise in designing and deploying highly available, scalable applications and their supporting infrastructure.
 
 ---
 
