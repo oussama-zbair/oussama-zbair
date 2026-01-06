@@ -1,0 +1,236 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Ocean depth gradient matching your profile colors -->
+    <radialGradient id="oceanBg" cx="50%" cy="30%" r="80%">
+      <stop offset="0%" style="stop-color:#0a2a2a;stop-opacity:1">
+        <animate attributeName="stop-color" values="#0a2a2a;#0f3535;#0a2a2a" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#000000;stop-opacity:1" />
+    </radialGradient>
+    
+    <!-- Teal wave gradient matching your cube colors -->
+    <linearGradient id="tealWave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00ffff;stop-opacity:0.9">
+        <animate attributeName="stop-opacity" values="0.9;0.6;0.9" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#00cccc;stop-opacity:0.7">
+        <animate attributeName="stop-opacity" values="0.7;0.9;0.7" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#008888;stop-opacity:0.8">
+        <animate attributeName="stop-opacity" values="0.8;0.5;0.8" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Text gradient in teal tones -->
+    <linearGradient id="tealText" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00ffff">
+        <animate attributeName="stop-color" values="#00ffff;#66ffff;#00cccc;#00ffff" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#00cccc">
+        <animate attributeName="stop-color" values="#00cccc;#00ffff;#66ffff;#00cccc" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Glow effects -->
+    <filter id="tealGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <filter id="strongTealGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Bubble gradient -->
+    <radialGradient id="bubbleGrad" cx="30%" cy="30%" r="70%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.8"/>
+      <stop offset="70%" style="stop-color:#00ffff;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#00cccc;stop-opacity:0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Ocean background -->
+  <rect width="800" height="400" fill="url(#oceanBg)"/>
+  
+  <!-- Deep sea waves - multiple layers -->
+  <g opacity="0.4">
+    <!-- Wave layer 1 -->
+    <path d="M-100,300 Q100,250 300,300 T700,300 T1100,300 L1100,400 L-100,400 Z" fill="url(#tealWave)">
+      <animateTransform attributeName="transform" type="translate" values="0,0;-200,0;0,0" dur="12s" repeatCount="indefinite"/>
+    </path>
+    
+    <!-- Wave layer 2 -->
+    <path d="M-100,320 Q150,280 350,320 T750,320 T1150,320 L1150,400 L-100,400 Z" fill="url(#tealWave)" opacity="0.7">
+      <animateTransform attributeName="transform" type="translate" values="0,0;200,0;0,0" dur="10s" repeatCount="indefinite"/>
+    </path>
+    
+    <!-- Wave layer 3 -->
+    <path d="M-100,340 Q200,300 400,340 T800,340 T1200,340 L1200,400 L-100,400 Z" fill="url(#tealWave)" opacity="0.5">
+      <animateTransform attributeName="transform" type="translate" values="0,0;-150,0;0,0" dur="8s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Floating bubbles -->
+  <g opacity="0.6">
+    <!-- Large bubble -->
+    <circle cx="100" cy="300" r="8" fill="url(#bubbleGrad)" filter="url(#tealGlow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-350;0,0" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="8;12;8" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Medium bubbles -->
+    <circle cx="200" cy="350" r="5" fill="url(#bubbleGrad)">
+      <animateTransform attributeName="transform" type="translate" values="0,0;50,-400;0,0" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    
+    <circle cx="600" cy="320" r="6" fill="url(#bubbleGrad)">
+      <animateTransform attributeName="transform" type="translate" values="0,0;-30,-380;0,0" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Small bubbles -->
+    <circle cx="300" cy="380" r="3" fill="url(#bubbleGrad)">
+      <animateTransform attributeName="transform" type="translate" values="0,0;20,-420;0,0" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    
+    <circle cx="500" cy="360" r="4" fill="url(#bubbleGrad)">
+      <animateTransform attributeName="transform" type="translate" values="0,0;-40,-400;0,0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    
+    <circle cx="700" cy="370" r="2" fill="url(#bubbleGrad)">
+      <animateTransform attributeName="transform" type="translate" values="0,0;60,-390;0,0" dur="4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Underwater current lines -->
+  <g opacity="0.3">
+    <path d="M0,200 Q200,180 400,200 Q600,220 800,200" stroke="#00ffff" stroke-width="1" fill="none">
+      <animate attributeName="d" values="M0,200 Q200,180 400,200 Q600,220 800,200;M0,200 Q200,220 400,200 Q600,180 800,200;M0,200 Q200,180 400,200 Q600,220 800,200" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;0.6;0.3" dur="4s" repeatCount="indefinite"/>
+    </path>
+    
+    <path d="M0,240 Q150,260 300,240 Q450,220 600,240 Q750,260 900,240" stroke="#00cccc" stroke-width="1" fill="none">
+      <animate attributeName="d" values="M0,240 Q150,260 300,240 Q450,220 600,240 Q750,260 900,240;M0,240 Q150,220 300,240 Q450,260 600,240 Q750,220 900,240;M0,240 Q150,260 300,240 Q450,220 600,240 Q750,260 900,240" dur="8s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Main Title with oceanic glow -->
+  <text x="400" y="120" font-family="'Orbitron', 'Courier New', monospace" font-size="48" font-weight="bold" fill="url(#tealText)" filter="url(#strongTealGlow)" text-anchor="middle">
+    OUSSAMA ZBAIR
+    <animate attributeName="opacity" values="0.9;1;0.9" dur="3s" repeatCount="indefinite"/>
+  </text>
+  
+  <!-- Flowing underline like water current -->
+  <path d="M200,135 Q300,145 400,135 Q500,125 600,135" stroke="url(#tealWave)" stroke-width="3" fill="none" filter="url(#tealGlow)">
+    <animate attributeName="d" values="M200,135 Q300,145 400,135 Q500,125 600,135;M200,135 Q300,125 400,135 Q500,145 600,135;M200,135 Q300,145 400,135 Q500,125 600,135" dur="4s" repeatCount="indefinite"/>
+  </path>
+  
+  <!-- Subtitle -->
+  <text x="400" y="170" font-family="'Orbitron', 'Arial', sans-serif" font-size="20" fill="#00ffff" filter="url(#tealGlow)" text-anchor="middle">
+    SOFTWARE ENGINEER
+    <animate attributeName="fill" values="#00ffff;#66ffff;#00cccc;#00ffff" dur="5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Floating specialty badges like sea creatures -->
+  <g transform="translate(80, 220)">
+    <!-- Backend Engineering -->
+    <g>
+      <rect x="0" y="0" width="120" height="30" rx="15" fill="none" stroke="#00ffff" stroke-width="2" filter="url(#tealGlow)">
+        <animate attributeName="stroke" values="#00ffff;#66ffff;#00cccc;#00ffff" dur="6s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0,0;0,-6;0,0" dur="4s" repeatCount="indefinite"/>
+      </rect>
+      <text x="60" y="20" font-family="'Orbitron', 'Arial', sans-serif" font-size="10" fill="#00ffff" text-anchor="middle">BACKEND</text>
+    </g>
+    
+    <!-- DevOps -->
+    <g transform="translate(140, 0)">
+      <rect x="0" y="0" width="70" height="30" rx="15" fill="none" stroke="#00cccc" stroke-width="2" filter="url(#tealGlow)">
+        <animate attributeName="stroke" values="#00cccc;#00ffff;#66ffff;#00cccc" dur="6s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0,0;0,5;0,0" dur="5s" repeatCount="indefinite"/>
+      </rect>
+      <text x="35" y="20" font-family="'Orbitron', 'Arial', sans-serif" font-size="10" fill="#00cccc" text-anchor="middle">DEVOPS</text>
+    </g>
+    
+    <!-- Cloud -->
+    <g transform="translate(230, 0)">
+      <rect x="0" y="0" width="70" height="30" rx="15" fill="none" stroke="#66ffff" stroke-width="2" filter="url(#tealGlow)">
+        <animate attributeName="stroke" values="#66ffff;#00cccc;#00ffff;#66ffff" dur="6s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0,0;0,-3;0,0" dur="3s" repeatCount="indefinite"/>
+      </rect>
+      <text x="35" y="20" font-family="'Orbitron', 'Arial', sans-serif" font-size="10" fill="#66ffff" text-anchor="middle">CLOUD</text>
+    </g>
+    
+    <!-- Developer -->
+    <g transform="translate(320, 0)">
+      <rect x="0" y="0" width="60" height="30" rx="15" fill="none" stroke="#00ffff" stroke-width="2" filter="url(#tealGlow)">
+        <animate attributeName="stroke" values="#00ffff;#00cccc;#66ffff;#00ffff" dur="6s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0,0;0,4;0,0" dur="4.5s" repeatCount="indefinite"/>
+      </rect>
+      <text x="30" y="20" font-family="'Orbitron', 'Arial', sans-serif" font-size="10" fill="#00ffff" text-anchor="middle">DEV</text>
+    </g>
+    
+    <!-- API -->
+    <g transform="translate(400, 0)">
+      <rect x="0" y="0" width="50" height="30" rx="15" fill="none" stroke="#00cccc" stroke-width="2" filter="url(#tealGlow)">
+        <animate attributeName="stroke" values="#00cccc;#66ffff;#00ffff;#00cccc" dur="6s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="3.5s" repeatCount="indefinite"/>
+      </rect>
+      <text x="25" y="20" font-family="'Orbitron', 'Arial', sans-serif" font-size="10" fill="#00cccc" text-anchor="middle">API</text>
+    </g>
+    
+    <!-- Full Stack -->
+    <g transform="translate(470, 0)">
+      <rect x="0" y="0" width="80" height="30" rx="15" fill="none" stroke="#66ffff" stroke-width="2" filter="url(#tealGlow)">
+        <animate attributeName="stroke" values="#66ffff;#00ffff;#00cccc;#66ffff" dur="6s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0,0;0,3;0,0" dur="2.8s" repeatCount="indefinite"/>
+      </rect>
+      <text x="40" y="20" font-family="'Orbitron', 'Arial', sans-serif" font-size="10" fill="#66ffff" text-anchor="middle">FULLSTACK</text>
+    </g>
+  </g>
+
+  <!-- Tech symbols floating like sea life -->
+  <g transform="translate(200, 290)" opacity="0.8">
+    <!-- Rotating code brackets -->
+    <text x="0" y="20" font-family="'Courier New', monospace" font-size="28" fill="#00ffff" filter="url(#tealGlow)">&lt;/&gt;
+      <animateTransform attributeName="transform" type="rotate" values="0 15 10;360 15 10" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#00ffff;#66ffff;#00cccc;#00ffff" dur="4s" repeatCount="indefinite"/>
+    </text>
+    
+    <!-- Floating container like a jellyfish -->
+    <g transform="translate(80, 0)">
+      <rect x="0" y="5" width="35" height="18" rx="3" fill="none" stroke="#00cccc" stroke-width="2">
+        <animate attributeName="stroke-width" values="2;3;2" dur="3s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="4s" repeatCount="indefinite"/>
+      </rect>
+      <line x1="7" y1="5" x2="7" y2="23" stroke="#00cccc" stroke-width="1"/>
+      <line x1="28" y1="5" x2="28" y2="23" stroke="#00cccc" stroke-width="1"/>
+    </g>
+    
+    <!-- Cloud like sea foam -->
+    <g transform="translate(140, 0)">
+      <ellipse cx="18" cy="14" rx="15" ry="8" fill="none" stroke="#66ffff" stroke-width="2">
+        <animateTransform attributeName="transform" type="translate" values="0,0;15,0;0,0" dur="6s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="10" cy="14" rx="8" ry="5" fill="none" stroke="#66ffff" stroke-width="1"/>
+      <ellipse cx="26" cy="14" rx="8" ry="5" fill="none" stroke="#66ffff" stroke-width="1"/>
+    </g>
+  </g>
+
+  <!-- Ocean floor waves -->
+  <g transform="translate(0, 360)">
+    <path d="M0,0 Q100,25 200,0 T400,0 T600,0 T800,0" stroke="url(#tealWave)" stroke-width="4" fill="none" filter="url(#tealGlow)">
+      <animate attributeName="d" values="M0,0 Q100,25 200,0 T400,0 T600,0 T800,0;M0,0 Q100,-15 200,0 T400,0 T600,0 T800,0;M0,0 Q100,25 200,0 T400,0 T600,0 T800,0" dur="5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0,15 Q150,-10 300,15 T600,15 T900,15" stroke="url(#tealWave)" stroke-width="3" fill="none" filter="url(#tealGlow)" opacity="0.8">
+      <animate attributeName="d" values="M0,15 Q150,-10 300,15 T600,15 T900,15;M0,15 Q150,25 300,15 T600,15 T900,15;M0,15 Q150,-10 300,15 T600,15 T900,15" dur="4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
