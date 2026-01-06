@@ -1,6 +1,7 @@
+<div align="center">
+
 ![Header](https://github.com/oussama-zbair/oussama-zbair/blob/main/assets/github-banner.svg?raw=true)
 
-<div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=oussama-zbair&style=for-the-badge&color=00ffff)
 ![GitHub followers](https://img.shields.io/github/followers/oussama-zbair?style=for-the-badge&color=00cccc&labelColor=0a2a2a)
@@ -157,71 +158,33 @@ collaboration: "Always open for innovative projects!"
 
 ---
 
+
+
 <div align="center">
 
-## 📊 GitHub Analytics
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oussama-zbair&show_icons=true&theme=dark&bg_color=0a2a2a&title_color=00ffff&text_color=66ffff&icon_color=00cccc&border_color=00ffff&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-zbair&layout=compact&theme=dark&bg_color=0a2a2a&title_color=00ffff&text_color=66ffff&border_color=00cccc&hide_border=false&langs_count=8" alt="Top Languages"/>
+## 🏆 GitHub Stats
+
+### ⏰ Productive Time Heatmap
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oussama-zbair&theme=radical&utcOffset=1)
+
+### 📝 Profile Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussama-zbair&theme=radical" />
+
+### 📊 Stats & Languages
+<p>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oussama-zbair&theme=radical" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oussama-zbair&theme=radical" />
 </p>
 
-</div>
-
-<div align="center">
-
-### 🔥 GitHub Streak Stats
-<img src="https://streak-stats.demolab.com/?user=oussama-zbair&theme=dark&background=0a2a2a&stroke=00ffff&ring=66ffff&fire=00cccc&currStreakNum=00ffff&sideNums=66ffff&currStreakLabel=00cccc&sideLabels=00ffff&dates=66ffff&hide_border=false" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=oussama-zbair&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Experience" alt="GitHub Trophies"/>
-
-</div>
-
-<div align="center">
-
-### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oussama-zbair&bg_color=0a2a2a&color=00ffff&line=66ffff&point=00cccc&area=true&area_color=00ffff&hide_border=false&custom_title=Contribution%20Activity" alt="Activity Graph"/>
-
-</div>
-
-<div align="center">
-
-### 📊 Profile Summary Cards
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussama-zbair&theme=github_dark" alt="Profile Summary"/>
-
-</div>
-
-<div align="center">
-
-### ⏰ Productive Time & Stats Overview
-<p align="center">
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oussama-zbair&theme=github_dark&utcOffset=1" alt="Productive Time"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oussama-zbair&theme=github_dark" alt="Stats Overview"/>
-</p>
-
-</div>
-
-<div align="center">
-
-### 🌟 GitHub Analytics Dashboard
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=oussama-zbair&theme=dark&bg_color=0a2a2a&title_color=00ffff&text_color=66ffff&border_color=00cccc&hide_border=false" alt="Wakatime Stats"/>
-
-</div>
-
-</div>
-
----
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oussama-zbair&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F&hide_border=true" />
 
 <div align="center">
 
 ### 💡 Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
+</div>
 </div>
 
 ---
