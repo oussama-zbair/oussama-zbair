@@ -22,7 +22,7 @@
 ```yaml
 name: Oussama Zbair
 role: Software Engineer
-education: Computer Science & Information Technology
+education: Computer Science & Information Technology | Software Engineering
 specialties:
   - Backend Engineering
   - DevOps & CI/CD
