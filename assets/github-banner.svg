@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Oussama Zbair, Software Engineer">
+  <defs>
+    <!-- Deep teal background, same palette as the original banner -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset="0.5" stop-color="#0a2a2a">
+        <animate attributeName="stop-color" values="#0a2a2a;#0f3535;#0a2a2a" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+
+    <linearGradient id="tealText" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00ffff">
+        <animate attributeName="stop-color" values="#00ffff;#66ffff;#00cccc;#00ffff" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#00cccc">
+        <animate attributeName="stop-color" values="#00cccc;#00ffff;#66ffff;#00cccc" dur="5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00ffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00ffff" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#00ffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Light sweep that passes across the banner -->
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00ffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00ffff" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#00ffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#00ffff" fill-opacity="0.12"/>
+    </pattern>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <clipPath id="frame"><rect width="1200" height="240" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="240" fill="url(#bg)"/>
+    <rect width="1200" height="240" fill="url(#dots)"/>
+
+    <!-- light sweep -->
+    <rect x="-400" y="0" width="400" height="240" fill="url(#sweep)">
+      <animate attributeName="x" values="-400;1200" dur="7s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- circuit traces on the right -->
+    <g fill="none" stroke="#00ffff" stroke-opacity="0.22" stroke-width="1.5">
+      <path d="M760 40 H880 L910 70 H1040 L1070 40 H1160"/>
+      <path d="M720 120 H840 L870 150 H990 L1020 120 H1160"/>
+      <path d="M780 200 H900 L930 170 H1060 L1090 200 H1160"/>
+      <path d="M910 70 V170"/>
+      <path d="M1040 70 V120"/>
+    </g>
+    <!-- pulses travelling along the traces -->
+    <g fill="#00ffff" filter="url(#softGlow)">
+      <circle r="3">
+        <animateMotion dur="5s" repeatCount="indefinite" path="M760 40 H880 L910 70 H1040 L1070 40 H1160"/>
+      </circle>
+      <circle r="3">
+        <animateMotion dur="6s" begin="1.5s" repeatCount="indefinite" path="M720 120 H840 L870 150 H990 L1020 120 H1160"/>
+      </circle>
+      <circle r="3">
+        <animateMotion dur="5.5s" begin="0.8s" repeatCount="indefinite" path="M780 200 H900 L930 170 H1060 L1090 200 H1160"/>
+      </circle>
+    </g>
+    <!-- trace nodes -->
+    <g fill="#0a2a2a" stroke="#00ffff" stroke-width="1.5">
+      <circle cx="910" cy="70" r="4"><animate attributeName="stroke-opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="1040" cy="70" r="4"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="910" cy="170" r="4"><animate attributeName="stroke-opacity" values="1;0.3;1" dur="2.5s" repeatCount="indefinite"/></circle>
+      <circle cx="1040" cy="120" r="4"><animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- floating particles -->
+    <g fill="#66ffff">
+      <circle cx="420" cy="230" r="2"><animate attributeName="cy" values="240;-10" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="7s" repeatCount="indefinite"/></circle>
+      <circle cx="560" cy="230" r="1.5"><animate attributeName="cy" values="240;-10" dur="9s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.7;0" dur="9s" begin="2s" repeatCount="indefinite"/></circle>
+      <circle cx="680" cy="230" r="2.5"><animate attributeName="cy" values="240;-10" dur="8s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.6;0" dur="8s" begin="1s" repeatCount="indefinite"/></circle>
+      <circle cx="300" cy="230" r="1.5"><animate attributeName="cy" values="240;-10" dur="10s" begin="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.7;0" dur="10s" begin="3s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- thin wave at the bottom -->
+    <path fill="#00cccc" fill-opacity="0.18">
+      <animate attributeName="d" dur="9s" repeatCount="indefinite"
+        values="M0 215 C200 200 400 230 600 215 C800 200 1000 230 1200 215 V240 H0 Z;
+                M0 215 C200 230 400 200 600 215 C800 230 1000 200 1200 215 V240 H0 Z;
+                M0 215 C200 200 400 230 600 215 C800 200 1000 230 1200 215 V240 H0 Z"/>
+    </path>
+    <path fill="#00ffff" fill-opacity="0.12">
+      <animate attributeName="d" dur="7s" repeatCount="indefinite"
+        values="M0 225 C250 215 450 238 700 225 C900 214 1050 236 1200 225 V240 H0 Z;
+                M0 225 C250 238 450 214 700 225 C900 236 1050 214 1200 225 V240 H0 Z;
+                M0 225 C250 215 450 238 700 225 C900 214 1050 236 1200 225 V240 H0 Z"/>
+    </path>
+  </g>
+
+  <!-- logo mark: hexagon with </> -->
+  <g transform="translate(115 115)">
+    <circle r="62" fill="none" stroke="#00ffff" stroke-opacity="0.35" stroke-width="1.2" stroke-dasharray="4 8">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite"/>
+    </circle>
+    <polygon points="0,-46 40,-23 40,23 0,46 -40,23 -40,-23" fill="#041818" stroke="url(#tealText)" stroke-width="2.5" filter="url(#glow)">
+      <animate attributeName="stroke-width" values="2.5;3.5;2.5" dur="3s" repeatCount="indefinite"/>
+    </polygon>
+    <text x="0" y="10" text-anchor="middle" font-family="'Courier New', monospace" font-size="30" font-weight="bold" fill="url(#tealText)">&lt;/&gt;</text>
+  </g>
+
+  <!-- name and title -->
+  <text x="215" y="108" font-family="'Orbitron', 'Segoe UI', 'Arial', sans-serif" font-size="46" font-weight="bold" letter-spacing="6" fill="url(#tealText)" filter="url(#softGlow)">OUSSAMA ZBAIR
+    <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+  </text>
+
+  <rect x="217" y="124" width="0" height="2" fill="url(#line)">
+    <animate attributeName="width" values="0;470" dur="1.5s" begin="0.3s" fill="freeze"/>
+  </rect>
+
+  <text x="217" y="156" font-family="'Orbitron', 'Segoe UI', 'Arial', sans-serif" font-size="17" letter-spacing="5" fill="#66ffff">SOFTWARE ENGINEER</text>
+
+  <!-- rotating specialties -->
+  <g font-family="'Courier New', monospace" font-size="14" letter-spacing="2" fill="#00cccc">
+    <text x="217" y="186">&gt; Backend · Java · Spring Boot
+      <animate attributeName="opacity" values="1;1;0;0;0;0;1" keyTimes="0;0.28;0.33;0.6;0.66;0.95;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="217" y="186" opacity="0">&gt; Cloud · DevOps · Kubernetes
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.3;0.36;0.62;0.68;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="217" y="186" opacity="0">&gt; AI Engineering · APIs · CI/CD
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.64;0.7;0.95;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- thin glowing frame -->
+  <rect x="1" y="1" width="1198" height="238" rx="18" fill="none" stroke="#00ffff" stroke-opacity="0.25" stroke-width="1.5">
+    <animate attributeName="stroke-opacity" values="0.25;0.5;0.25" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
