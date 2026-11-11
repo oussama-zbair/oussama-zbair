@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&animation=fadeIn" width="100%" alt="Animated wave"/>
 
-![Header](https://github.com/oussama-zbair/oussama-zbair/blob/main/assets/github-banner.svg?raw=true)
+![Header](https://github.com/oussama-zbair/oussama-zbair/blob/main/assets/banner.svg?raw=true)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=oussama-zbair&style=for-the-badge&color=00ffff)
